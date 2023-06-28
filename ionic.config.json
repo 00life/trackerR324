@@ -1,0 +1,7 @@
+{
+    "name": "TrackerR324",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }

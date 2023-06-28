@@ -1,0 +1,106 @@
+{
+  "description": "tracking app",
+  "name": "tracker",
+  "author": "Reza Tahirkheli reza.s.tahirkheli@gmail.com",
+  "version": "0.1.0",
+  "private": true,
+  "main": "public/main.js",
+  "homepage": "./",
+  "devDependencies": {
+    "@capacitor/android": "^4.6.3",
+    "@capacitor/cli": "^4.6.3",
+    "@capacitor/core": "^4.6.3",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "blueimp-md5": "^2.19.0",
+    "canvas": "^2.11.0",
+    "concurrently": "^7.6.0",
+    "cross-env": "^7.0.3",
+    "electron": "^23.1.3",
+    "electron-builder": "^23.6.0",
+    "firebase": "^9.15.0",
+    "jsbarcode": "^3.11.5",
+    "qrcode": "^1.5.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.6.2",
+    "react-scripts": "5.0.1",
+    "smalltalk": "^4.1.1",
+    "wait-on": "^7.0.1",
+    "web-vitals": "^2.1.4",
+    "yarn": "^1.22.19"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "electron-dev": "electron .",
+    "electron:serve": "concurrently -k \"cross-env BROWSER=none yarn start \" \"yarn electron:start\" ",
+    "electron:build": "yarn build && electron-builder -c.extraMetadata.main=build/main.js",
+    "electron:start": "wait-on http://127.0.0.1:3000 && electron .",
+    "web:serve": "concurrently -k \"cross-env BROWSER=none node ./src/API.js\" \"yarn web:start\" ",
+    "web:start":"wait-on http://127.0.0.1:3001 && yarn start"
+  },
+  "build": {
+    "extends": null,
+    "appId": "com.electron.trackerR324",
+    "files": [
+      "dist/**/*",
+      "build/**/*",
+      "node_modules/**/*",
+      "package.json",
+      "public/**/*"
+    ],
+    "directories": {
+      "buildResources": "assets"
+    },
+    "win": {
+      "icon": "build/icon.png",
+      "target": "NSIS"
+    },
+    "mac": {
+      "target": "dmg",
+      "icon": "build/icon.png"
+    },
+    "linux": {
+      "icon": "build/icon.png",
+      "target": [
+        "snap",
+        "AppImage",
+        "deb"
+      ]
+    }
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "ddevDependencies": {
+    "@capacitor/cli": "^4.6.3"
+  },
+  "browser": {
+    "fs": false,
+    "os": false,
+    "path": false
+  },
+  "dependencies": {
+    "@capacitor/app": "^4.1.1",
+    "@capacitor/filesystem": "^4.1.4"
+  }
+}

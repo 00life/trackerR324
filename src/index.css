@@ -1,0 +1,48 @@
+:root{
+  --main-backgroundColor:#ffffff;
+  --main-boxShadow:1px 1px 4px 0px #8888;
+  --main-textColor:#414a4c;
+  /* --main-fillColor: #FFE194; */
+  --sec-backgroundColor: #FAF9F6; 
+  --notify-color: #B9D9EB;
+  --thir-backgroundColor:#F0F8FF;
+  --columbianBlue:#B9D9EB;
+  --analogousBlue:#b9c0eb;
+  --monochromaticBlue:#7eb9da;
+  --selectBlue:rgb(0,0,255);
+  --analogousGreen:#b9ebe4;
+  --triadicGreen:#d9ebb9;
+  --tetradicGreen:#b9ebcb;
+  --triadicRed:#ebb9d9;
+  --complimentRed:#ebb9c0;
+  --complimentYellow:#ebe4b9;
+  --monochromaticWhite:#f5fcfb;
+  
+  
+}
+
+
+* {
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.textDesign1 {
+  color: var(--complimentYellow);
+  text-shadow:1px 0px black, -1px -0px black, 0px 1px black, 0px -1px black, 1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+}

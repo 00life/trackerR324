@@ -1,0 +1,29 @@
+npm install firebase
+npm i react-router-dom
+npm install blueimp-md5
+npm install jsbarcode
+npm install canvas
+npm install qrcode
+
+
+added to package.json
+
+ "browser":{
+    "fs":false,
+    "os":false,
+    "path":false
+  }
+
+$     npm install --global yarn
+$     npm i electron
+$     yarn add concurrently
+$     yarn add wait-on
+$     yarn add cross-env
+$     yarn add electron-builder
+$     npm i smalltalk #(replacement for window.prompt())
+
+$     npm install @capacitor/core
+$     npm install @capacitor/cli --save-dev
+$     npm install @capacitor/android
+
+$     npm install @capacitor/filesystem #(save file to phone)

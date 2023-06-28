@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f956f614-4cba-4f81-aa73-680d890607dc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/capacitor.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/capacitor.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ionic.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/ionic.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npm installs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/npm installs.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/preload.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/preload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ModalView.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ModalView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ReceivingParticipant.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ReceivingParticipant.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/AuthContext.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/AuthContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/Functions_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/Functions_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/Functions_2.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/Functions_2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/Functions_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/Functions_3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/Functions_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/Functions_4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/Functions_Auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/Functions_Auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/Functions_Autoload.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/Functions_Autoload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context/Layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AutoConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AutoConfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/BarTrack.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/BarTrack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Barcode.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Barcode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Participants.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Participants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/R324Tracker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/R324Tracker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Request.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2OBvq4fOJcVGDdVk6On0YaGlMX3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/R324/Desktop/Coding Projects/React/tracker/android&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f956f614-4cba-4f81-aa73-680d890607dc" name="Changes" comment="" />
+      <created>1681046976341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681046976341</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
