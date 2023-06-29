@@ -1,9 +1,9 @@
 https://drive.google.com/file/d/1PxiGZwN0Z66_5k9r8LSbOXUUERBcjfmo/view?usp=share_link
 
-Terminal Command:
-$     yarn web:serve
-$     yarn electron:server
-$     yarn electron:build
+Terminal Command: \n
+$     yarn web:serve \n
+$     yarn electron:server \n
+$     yarn electron:build \n
 
 # Getting Started with Create React App
 
