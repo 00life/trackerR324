@@ -1,5 +1,10 @@
 https://drive.google.com/file/d/1PxiGZwN0Z66_5k9r8LSbOXUUERBcjfmo/view?usp=share_link
 
+Terminal Command:
+$     yarn web:serve
+$     yarn electron:server
+$     yarn electron:build
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
